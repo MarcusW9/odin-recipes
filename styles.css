@@ -1,0 +1,11 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+body {
+    background-color: #F3EAF4;
+}
+
+#recipe-list li {
+    margin: 1em;
+}
